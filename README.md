@@ -10,8 +10,7 @@ I am an undergraduate student at Ujung Pandang State Polytechnic with expertise 
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AzwarKusumah&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AzwarKusumah&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AzwarKusumah&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzwarKusumah&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
