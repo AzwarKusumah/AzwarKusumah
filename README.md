@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am an undergraduate student at Ujung Pandang State Polytechnic with expertise in various technology fields, including DevOps, <br>System Admin, Back-End Engineering, and Front-End Engineering
+I am an undergraduate student with expertise in various technology fields, including DevOps, <br>System Admin, Back-End Engineering, and Front-End Engineering
 
+<div align="center">
+<img src="https://github.com/AzwarKusumah/AzwarKusumah/assets/42644779/54c74523-6733-42a2-87ac-0c5284e48915" align="center" style="width: 100%" />
+</div>  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngazwar__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AzwarKusumah) 
@@ -11,6 +14,6 @@ I am an undergraduate student at Ujung Pandang State Polytechnic with expertise 
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=AzwarKusumah&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzwarKusumah&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzwarKusumah&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
