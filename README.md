@@ -6,7 +6,16 @@ I am an undergraduate student with expertise in various technology fields, inclu
 </div>  
 
 ## 💻 Tech Stack:
-### Frontend
+### Frontend:
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,styledcomponents)](https://skillicons.dev)
+### Backend:
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,go,express,nestjs,flask)](https://skillicons.dev)
+### Fullstack:
+[![My Fullstack Skills](https://skillicons.dev/icons?i=nextjs,laravel,js,ts,php)](https://skillicons.dev)
+### Database:
+[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+### DevOps:
+[![My DevOps Skills](https://skillicons.dev/icons?i=githubactions,nginx,linux,docker)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <div align="center">
