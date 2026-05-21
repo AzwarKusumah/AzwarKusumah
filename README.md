@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an undergraduate student with expertise in various technology fields, including DevOps, <br>System Admin, Back-End Engineering, and Front-End Engineering. Passionate about learning new technologies and possess strong communication skills.
+Just freak
 
 <div align="center">
 <img src="https://github.com/AzwarKusumah/AzwarKusumah/assets/42644779/54c74523-6733-42a2-87ac-0c5284e48915" align="center" style="width: 100%" />
